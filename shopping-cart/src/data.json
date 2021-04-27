@@ -1,0 +1,14 @@
+{
+    "products":[
+               {"id":"dress1","description":"about dress1","price":19,"availableSizes":["XL","XXL"],"image":"/images/dress1.jpg","title":"Dress1"},
+               {"id":"dress2","description":"about dress2","price":10,"availableSizes":["S","L","XL","XXL"],"image":"/images/dress2.jpg","title":"Dress2"},
+               {"id":"dress3","description":"about dress3","price":15,"availableSizes":["M","S","L","XL","XXL"],"image":"/images/dress3.jpg","title":"Dress3"},
+               {"id":"dress4","description":"about dress4","price":52,"availableSizes":["S","L","XL","XXL"],"image":"/images/dress4.jpg","title":"Dress4"},
+               {"id":"dress5","description":"about dress5","price":11,"availableSizes":["M","S","L","XL","XXL"],"image":"/images/dress5.jpg","title":"Dress5"},
+               {"id":"dress6","description":"about dress6","price":13,"availableSizes":["M","S","L","XL","XXL"],"image":"/images/dress6.jpg","title":"Dress6"},
+               {"id":"dress7","description":"about dress7","price":16,"availableSizes":["L","XL","XXL"],"image":"/images/dress7.jpg","title":"Dress7"},
+               {"id":"dress8","description":"about dress8","price":10,"availableSizes":["XL","XXL"],"image":"/images/dress8.jpg","title":"Dress8"},
+               {"id":"dress9","description":"about dress9","price":20,"availableSizes":["M","S","L","XL","XXL"],"image":"/images/dress9.jpg","title":"Dress9"},
+               {"id":"dress10","description":"about dress10","price":30,"availableSizes":["XL","XXL"],"image":"/images/dress10.jpg","title":"Dress10"}
+    ]
+}
