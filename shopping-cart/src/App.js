@@ -1,14 +1,32 @@
-//Feature1
+/*Feature1*/
 import React from 'react';
+import data from './data.json'
+import Products from './components/Products'
 
-function App() {
+class App extends React.Component {
+  constructor() {
+    super();
+    this.state ={ 
+      products:data.products,
+      size:"",
+      sort:""
+    }
+  }
+  render(){
   return (
     <div className="grid-container">
       <header>
         <a href='/'>React Shopping</a>
       </header>
       <main>
-        Product List
+        <div className="content">
+          <div className="main">
+            <Products products={this.state.products}></Products>
+          </div>
+          <div className="sidebar">
+            Cart Items
+          </div>
+        </div>
         </main>
 
         <footer>
@@ -16,6 +34,7 @@ function App() {
         </footer>
     </div>
   );
+  }
 }
 
 export default App;
