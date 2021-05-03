@@ -9,6 +9,6 @@
                {"id":"dress7","description":"about dress7","price":16,"availableSizes":["L","XL","XXL"],"image":"/images/dress7.jpg","title":"Dress7"},
                {"id":"dress8","description":"about dress8","price":10,"availableSizes":["XL","XXL"],"image":"/images/dress8.jpg","title":"Dress8"},
                {"id":"dress9","description":"about dress9","price":20,"availableSizes":["M","S","L","XL","XXL"],"image":"/images/dress9.jpg","title":"Dress9"},
-               {"id":"dress10","description":"about dress10","price":30,"availableSizes":["XL","XXL"],"image":"/images/dress10.jpg","title":"Dress10"}
+               {"id":"dress10","description":"about dress10","price":30,"availableSizes":["L","M"],"image":"/images/dress10.jpg","title":"Dress10"}
     ]
 }
