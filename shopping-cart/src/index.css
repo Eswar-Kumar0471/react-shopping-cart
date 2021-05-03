@@ -113,3 +113,13 @@ footer {
 .botton:hover {
   border: 0.1rem #808080 solid; 
 }
+.filter {
+  display: flex;
+  padding: 1rem;
+  margin: 1rem;
+  border-bottom: .1rem #c0c0c0 solid;
+  justify-content:space-between;
+}
+.filter div{
+  flex: 1
+}
